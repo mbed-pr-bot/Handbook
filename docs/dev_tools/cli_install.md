@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 # mbed CLI for Windows Installer
 
 mbed CLI for Windows installs [mbed CLI](https://github.com/ARMmbed/mbed-cli) with all requirements on Windows 7 and newer.

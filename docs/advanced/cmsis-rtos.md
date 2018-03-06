@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 # CMSIS and RTX
 
 CMSIS/RTX code is imported from the original CMSIS repository, which you can find at: https://github.com/ARM-software/CMSIS_5/.
