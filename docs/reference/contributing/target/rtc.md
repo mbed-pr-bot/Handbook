@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ### RTC
 
 The RTC HAL API provides a low-level interface to the Real Time Counter (RTC) of a target.

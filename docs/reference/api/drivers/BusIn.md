@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## BusIn
 
 With the BusIn API, you can create a number of DigitalIn pins that you can read as one value. This abstraction is useful for checking multiple inputs at once. You can use this API to write clearer code faster.

@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Mutex
 
 A Mutex is used to synchronize the execution of threads, for example to protect the access to a shared resource.

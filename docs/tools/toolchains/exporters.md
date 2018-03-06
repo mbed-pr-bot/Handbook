@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## About the exporters
 
 Use the Arm Mbed exporters to export your code to various third party tools and IDEs. Each exporter implements a `generate` function that produces an IDE specific project file. Exporters benefit from Mbed build tools. However, instead of using your source and <a href="/docs/v5.6/tools/configuring-tools.html" target="_blank">config data</a> to create an executable, we use that information to populate an IDE project file that will be configured to build, flash and debug your code.

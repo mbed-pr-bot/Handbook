@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Cellular TCP sockets
 
 This example opens a TCP socket with an echo server and performs a TCP transaction.

@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Blinky on Arm Mbed CLI
 
 This tutorial builds Blinky using the Arm Mbed CLI, which allows you to build Mbed OS applications on your own machine. You will need to install Mbed CLI and a toolchain before you can work with Blinky.

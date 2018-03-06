@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## BusInOut
 
 Use the BusInOut interface as a bidirectional bus that supports up to 16 <a href="/docs/v5.6/reference/digitalinout.html" target="_blank">DigitalInOut</a> pins that you can read and write as one value.

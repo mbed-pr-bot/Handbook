@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## CriticalSectionLock
 
 The CriticalSectionLock class provides a mechanism to access a resource without interruption. With the `lock` API, you can enter critical section with interrupts disabled. The `unlock` API is the exit from critical section, and the destructor restores the state of interrupts upon exit. Nesting of critical section is supported, and the destructor enables interrupts only when you exit from the last nested critical section.

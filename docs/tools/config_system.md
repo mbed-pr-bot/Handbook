@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## The configuration system
 
 The Arm Mbed configuration system customizes the compile time configuration of various Mbed components (targets, libraries and applications). Each component can define a number of *configuration parameters*. The values of these configuration parameters can then be *overridden* in various ways. Configuration is defined using <a href="http://www.json.org/" target="_blank">JSON</a>. Some examples of configuration parameters:

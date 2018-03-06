@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Ignoring files from mbed build
 
 The `.mbedignore` file tells the `mbed build` command which files and directories to ignore (not process).

@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 <h2 id="serial-comm">Board to PC communication over USB</h2>
 
 The Arm Mbed microcontroller on your board can communicate with a host PC over the same USB cable that you use for programming.

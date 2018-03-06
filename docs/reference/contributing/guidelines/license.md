@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ### License
 
 This chapter covers the different aspects of developing your own libraries for use in Arm Mbed devices, as well as items to keep in mind during development, such as licensing. It covers:

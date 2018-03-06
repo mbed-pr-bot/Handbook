@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## PortOut
 
 Use the PortOut interface to write to an underlying GPIO port as one value. This is much faster than <a href="/docs/v5.6/reference/busout.html" target="_blank">BusOut</a> because you can write a port in one go, but it is much less flexible because you are constrained by the port and bit layout of the underlying GPIO ports.

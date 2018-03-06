@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ### Arm Mbed HDK
 
 The Arm Mbed Hardware Development Kit (Mbed HDK) is a collection of hardware design resources that we have gathered to assist the development of custom hardware benefiting from the Arm Mbed ecosystem and associated technologies, like Arm Mbed OS and DAPLink. Working with development boards that are based on the Mbed HDK is the most efficient way to get started with the Arm Mbed platform.

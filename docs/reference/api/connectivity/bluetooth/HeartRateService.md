@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## HeartRateService
 
 People practicing physical activities use heart rate monitors to track their pulse in real time and improve their physical performances.

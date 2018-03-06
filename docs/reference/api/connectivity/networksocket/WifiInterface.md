@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Wi-Fi
 
 The WifiInterface provides a simple C++ API for connecting to the internet over a Wi-Fi device.

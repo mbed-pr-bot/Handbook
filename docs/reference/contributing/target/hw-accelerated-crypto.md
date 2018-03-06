@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ### Hardware Accelerated Crypto
 
 This document explains how to add hardware acceleration support for a development board in Arm Mbed OS and integrate it with <a href="https://github.com/ARMmbed/mbedtls" target="_blank">Arm Mbed TLS</a>.

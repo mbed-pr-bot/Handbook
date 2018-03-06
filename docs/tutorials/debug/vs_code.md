@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Visual Studio Code
 
 This document explains how to build and debug Arm Mbed OS applications using Visual Studio Code. Before starting, first <a href="/docs/v5.6/tools/setting-up-a-local-debug-toolchain.html" target="_blank">configure your local debug toolchain</a>.

@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Application Flow Control
 
 We can use Blinky to explore flow control and task management in Arm Mbed OS applications. We'll look at automated actions first, then move on to handling user actions.

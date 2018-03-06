@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Error
 
 Mbed OS provides an error function to output messages to `STDIO` at runtime when the system encounters a fatal error and the Application calling the error function will be terminated. Note that the error function outputs the error message in <a href="/docs/v5.6/tools/build-profiles.html" target="_blank">debug and develop builds</a> only. In release builds, the error function does not generate any `STDIO` output, but the application is still terminated. `mbed_error.h` declares the error function.

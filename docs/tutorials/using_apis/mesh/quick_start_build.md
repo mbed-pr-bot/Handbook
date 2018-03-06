@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ### Build time configuration of the stack
 
 To minimize the size of the produced stack, we have defined a set of build options.

@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ### GPIO
 
 Implement the api declared in `mbed-os/hal/gpio_api.h`. You must define the struct `gpio_t`. This struct is commonly defined in an `objects.h` file within the `mbed-os/targets/TARGET_VENDOR/`, `mbed-os/targets/TARGET_VENDOR/TARGET_MCU_FAMILY` or `mbed-os/targets/TARGET_VENDOR/TARGET_MCU_FAMILY/TARGET_MCUNAME` directories.
