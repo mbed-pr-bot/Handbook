@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 # Migrating from MINAR (mbed OS 3) to mbed OS 5
 
 If you're looking to migrate your mbed application from mbed OS 3 to mbed OS 5, one of the first things you're likely to notice is that [MINAR](https://github.com/ARMmbed/minar) (the event schduler in mbed OS 3) does not exist in mbed OS 5. This might be inconvenient, but there are different strategies that you can apply to port your mbed OS 3 application to mbed OS 5. This document presents some of these strategies from the MINAR perspective.
