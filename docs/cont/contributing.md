@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 # Creating and publishing your own libraries and contributing to mbed OS
 
 This chapter covers the different aspects of developing your own libraries for use in mbed devices, as well as items to keep in mind during development, such as licensing. It covers:

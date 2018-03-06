@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 # mbed SDK build script environment
 ## Introduction
 Mbed test framework allows users to test their mbed devices’ applications, build mbed SDK library, re-run tests, run mbed SDK regression, add new tests and get all this results automatically. Everything is done on your machine so you have a full control over compilation, and tests you run.

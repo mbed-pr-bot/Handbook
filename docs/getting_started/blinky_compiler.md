@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 # Blinky on the mbed Online Compiler
 
 <span class="tips">Please create a [developer account](https://developer.mbed.org/account/signup/). It's free, and we don't spam.</span>
