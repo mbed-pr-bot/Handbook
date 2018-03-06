@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## ChainingBlockDevice
 
 The ChainingBlockDevice class provides a way to chain together multiple block devices. You can then interact with the chained block devices as if they were a single block device of size equal to the sum of each substorage unit. The ChainingBlockDevice acts as an opposite of the <a href="/docs/v5.6/reference/slicingblockdevice.html" target="_blank">SlicingBlockDevice</a>.

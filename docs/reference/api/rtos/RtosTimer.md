@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## RtosTimer
 
 <span class="warnings">**Deprecated**: The EventQueue has superseded the RtosTimer. The RtosTimer and EventQueue duplicate the functionality of timing events outside of interrupt context; however, the EventQueue has additional features to handle deferring other events to multiple contexts.</span>

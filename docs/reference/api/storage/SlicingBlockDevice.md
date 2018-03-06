@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## SlicingBlockDevice
 
 The SlicingBlockDevice class provides a way to break up a block device into subunits without the need to manually track offsets. The SlicingBlockDevice acts as an opposite of the <a href="/docs/v5.6/reference/chainingblockdevice.html" target="_blank">ChainingBlockDevice</a> class.

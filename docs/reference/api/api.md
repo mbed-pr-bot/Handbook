@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## API overview
 
 The <a href="/docs/v5.6/introduction/glossary.html" target="_blank">APIs</a> in this document are organized by the feature, or group of features, they enable.

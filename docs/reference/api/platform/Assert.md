@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Assert
 
 Mbed OS provides a set of macros that evaluates an expression and prints an error message if the expression evaluates to false. There are two types of macros, one for evaluating the expression during runtime and one for compile-time evaluation. `mbed_assert.h` defines these macros.

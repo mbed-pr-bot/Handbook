@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ### CLA
 
 If you want to contribute code to Mbed OS, you must sign an Mbed Contributor License Agreement (CLA). Please ask for a CLA before submitting any code (for example, while discussing the issue on GitHub), then wait for Arm to confirm acceptance of your CLA before making contributions.

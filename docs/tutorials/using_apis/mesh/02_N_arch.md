@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ### Nanostack
 
 This chapter introduces the _6LoWPAN stack architecture_. It contains the following sections:

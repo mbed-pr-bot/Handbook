@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Sleep manager
 
 There is only one sleep function in Mbed OS 5.6:

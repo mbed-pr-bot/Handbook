@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## DeepSleepLock
 
 The `DeepSleepLock` class provides an RAII object for disabling sleep. In other words, creating a DeepSleepLock object calls its constructor, which increments the deep sleep prevention lock. The DeepSleepLock object automatically releases the deep sleep prevention lock in its destructor when the object goes out of scope. Another way to look at this is when the DeepSleepLock object exists, it prevents deep sleep.

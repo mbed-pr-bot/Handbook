@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## MemoryStats
 
 Mbed OS provides a set of functions that you can use to capture the memory statistics at runtime. `mbed_stats.h` declares these functions. You can use memory statistics functions to capture heap usage, cumulative stack usage or stack usage per thread at runtime. To enable memory usage monitoring, you must build Mbed OS with the following macros.

@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Generating API Documentation
 
 API documentation tells you what you need to know to use a library or work with a program. It details functions, classes, return types and more.

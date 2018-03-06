@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Security overview
 
 Security on Arm Mbed OS is divided into two parts:

@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ### NetworkStack
 
 The Network-Socket-API (NSAPI) provides a TCP/UDP API on top of any IP based network interface. With the NSAPI, you can write applications and libraries that use TCP/UDP Sockets without regard to the type of IP connectivity. In addition to providing the TCP/UDP API, the NSAPI includes virtual base classes for the different IP interface types.

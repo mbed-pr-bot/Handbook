@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Using the APIs
 
 This section contains step-by-step tutorials that show you how to perform specific tasks that use the Arm Mbed APIs, and covers the following APIs:

@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## UDPSocket
 
 The UDPSocket class provides the ability to send packets of data over UDP, using the `sendto` and `recvfrom` member functions. Packets can be lost or arrive out of order, so we suggest using a <a href="/docs/v5.6/reference/tcpsocket.html" target="_blank">TCPSocket</a> when you require guaranteed delivery.

@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Mail
 
 Mail works like a queue, with the added benefit of providing a memory pool for allocating messages (not only pointers).

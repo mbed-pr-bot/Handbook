@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Debug
 
 Mbed OS provides a set of debug functions that you can use to output debug messages to `STDIO` at runtime. `mbed_debug.h` declares these functions, which are available only in debug builds.

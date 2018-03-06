@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## DigitalIn
 
 Use the DigitalIn interface to read the value of a digital input pin. The logic level is either 1 or 0.

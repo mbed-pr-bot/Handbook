@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## iBeacon
 
 iBeacon is an Apple technology based on BLE that you can use as an indoor positioning system. It allows iOS apps to track if the user enters a specific region and offers actions and notification aware of the user context.

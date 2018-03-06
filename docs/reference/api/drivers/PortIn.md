@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## PortIn
 
 Use the PortIn interface to read an underlying GPIO port as one value. This is much faster than <a href="/docs/v5.6/reference/busin.html" target="_blank">BusIn</a> because you can read a port in one go, but it is much less flexible because you are constrained by the port and bit layout of the underlying GPIO ports.

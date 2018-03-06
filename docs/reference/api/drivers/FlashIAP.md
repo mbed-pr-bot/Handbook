@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Flash IAP
 
 The flash in application programming provides an interface for access to MCU internal flash memory.

@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Porting a new target for exporters
 
 Exporting allows users to transition from Mbed CLI or the Online Compiler to the development environment of their choice. When you add a new target, you must add support for exporters. The following sections explain how you add support for a new target to each exporter.

@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 <h2 id="rtos-api">RTOS overview</h2>
 
 The Arm Mbed RTOS is a C++ wrapper over the Keil RTX code. For more information about Keil RTX, check <a href="https://github.com/ARM-software/CMSIS/raw/master/CMSIS/Documentation/RTX/CMSIS_RTOS_Tutorial.pdf" target="_blank">the Keil CMSIS-RTOS tutorial</a> and <a href="https://www.element14.com/community/docs/DOC-46650/l/arm-keil-rtx-real-time-operating-system-overview" target="_blank">the element14 introduction to Keil RTX</a>. You can use these resources as a general introduction to RTOS principles; it is important to be familiar with the concepts behind an RTOS in order to understand this guide.

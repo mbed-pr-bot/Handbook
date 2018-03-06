@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## Debugging Applications
 
 A benefit of Arm Mbed OS applications is the ease with which you can debug them. You can use any IDE that supports GDB to debug Mbed OS 5 applications. Three such IDEs that you can use to debug are Eclipse, Keil uVision and Visual Studio Code.

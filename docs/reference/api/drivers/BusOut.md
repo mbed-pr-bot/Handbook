@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## BusOut
 
 Use the BusOut interface to create a number of <a href="/docs/v5.6/reference/digitalout.html" target="_blank">DigitalOut</a> pins that you can write as one value. This API is useful for writing multiple outputs at once. You can use this API to write clearer code faster.

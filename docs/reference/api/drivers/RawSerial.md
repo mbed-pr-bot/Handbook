@@ -1,3 +1,4 @@
+<span class="warnings">**Out of date**: This is not the most recent version of this page. Please see [the most recent version](y)</span>
 ## RawSerial
 
 The RawSerial class provides UART functionality without the use of Stream's print and scan functions the way the Serial class does. RawSerial does not retarget the standard library print and scan functions. Instead, RawSerial reimplements the print and scan functions to use each target's underlying serial communication functions. See the porting guide for <a href="/docs/v5.6/reference/contributing-target.html#serial" target="_blank">target serial support</a>. This makes RawSerial suitable for use in interrupt handlers with the RTOS.
